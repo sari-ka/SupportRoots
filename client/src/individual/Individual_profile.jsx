@@ -3,7 +3,7 @@ import React from 'react'
 function Individual_profile() {
   return (
     <div>
-      
+      individual
     </div>
   )
 }
